@@ -297,7 +297,7 @@
   "users" : [ {
     "id" : "a5461470-33eb-4b2d-82d4-b0484e96ad7f",
     "createdTimestamp" : 1574174706812,
-    "username" : "john@test.com",
+    "username" : "john@baeldung.com",
     "enabled" : true,
     "totp" : false,
     "emailVerified" : false,
